@@ -1,0 +1,20 @@
+.header {
+    background-color: white;
+    position: relative;
+    box-shadow: 0 0 10px #ddd;
+
+}
+.header .container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.header .container .logo {
+
+}
+.header .main-nav {
+
+}
+.header .main-nav > li > a {
+
+}
